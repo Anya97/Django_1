@@ -1,0 +1,101 @@
+[
+  {
+    "category": "дом",
+    "name": "лампа",
+    "image": "products_images/products-1.jpg",
+    "short_desc": "лампа",
+    "description": "пойдет для чтения книг",
+    "price": "2000.0",
+    "quantity": "25"
+  },
+  {
+    "category": "дом",
+    "name": "стул",
+    "image": "products_images/products-2.jpg",
+    "short_desc": "мягкий стул",
+    "description": "удобные для гостей",
+    "price": "1234.5",
+    "quantity": "45"
+  },
+  {
+    "category": "дом",
+    "name": "чайник",
+    "image": "products_images/products-3.jpg",
+    "short_desc": "удобный чайник",
+    "description": "универсальный помошник на кухне",
+    "price": "1845.9",
+    "quantity": "15"
+  },
+  {
+    "category": "дом",
+    "name": "стул",
+    "image": "products_images/products-4.jpg",
+    "short_desc": "уникальный стул",
+    "description": "удобен для завтраков",
+    "price": "5365.0",
+    "quantity": "4"
+  },
+  {
+    "category": "офис",
+    "name": "лампа",
+    "image": "products_images/products-5.jpg",
+    "short_desc": "черная лампа",
+    "description": "подойдет для офиса",
+    "price": "20000.0",
+    "quantity": "250"
+  },
+  {
+    "category": "офис",
+    "name": "лампа",
+    "image": "products_images/products-11.jpg",
+    "short_desc": "светлая лампа",
+    "description": "подойдет для офиса",
+    "price": "15000.0",
+    "quantity": "130"
+  },
+  {
+    "category": "офис",
+    "name": "стул",
+    "image": "products_images/products-21.jpg",
+    "short_desc": "белый стул",
+    "description": "подойдет для гостей в офисе",
+    "price": "35590.9",
+    "quantity": "25"
+  },
+  {
+    "category": "классика",
+    "name": "лампа",
+    "image": "products_images/products-31.jpg",
+    "short_desc": "настольная лампа",
+    "description": "пойдет для чтения книг",
+    "price": "525.5",
+    "quantity": "125"
+  },
+  {
+    "category": "модерн",
+    "name": "лампа",
+    "image": "products_images/products-41.jpg",
+    "short_desc": "настенная лампа",
+    "description": "пойдет для дома",
+    "price": "16328.8",
+    "quantity": "8"
+  },
+  {
+    "category": "дом",
+    "name": "ступка с толкушкой",
+    "image": "products_images/products-51.jpg",
+    "short_desc": "ступка",
+    "description": "подойдет для перца",
+    "price": "256.6",
+    "quantity": "109"
+  },
+  {
+    "category": "модерн",
+    "name": "ваза",
+    "image": "products_images/products-61.jpg",
+    "short_desc": "белая ваза",
+    "description": "отлично впишется в любой интерьер",
+    "price": "8550.5",
+    "quantity": "2009"
+  }
+]
