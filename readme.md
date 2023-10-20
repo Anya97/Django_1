@@ -1,1 +1,1 @@
-# GB Homework
+# Django project
